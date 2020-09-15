@@ -1,5 +1,6 @@
 # Steadymate Monitor
 Steadymate is a body temperature monitor specifically designed for children who suffer from CIPA. This project was designed during a 24-hour biomedical hackathon, and features the joint effort of Katarina Chiam, Mirjana Mijalkovic, Julia Wang and Kelvin Cui.
+<img src = "https://raw.githubusercontent.com/ntnox/steadymate/master/Steadmate_Device.jpg">
 
 ## Background Info
 Congenitive Inensitivity to Pain and Anhydrosis, or CIPA, is a rare condition that prevents childen from feeling pain or heat. As a result, many childen who suffer from CIPA often injure themselves without realizing it. As they are unable to feel heat, and being kids, they are at a high risk of heat related injuries, such as heat strokes. We wanted to focus on this aspect, and find a way to alert both the child and parent as body temperatures reach critical levels.
